@@ -1,0 +1,15 @@
+{  
+  "name": "dev-dynasty",  
+  "version": "2.3.3",  
+  "description": "DEV脚本协议",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/dev-dynasty"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/dev-dynasty"  
+}
